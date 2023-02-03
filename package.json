@@ -1,5 +1,5 @@
 {
-  "name": "currency-cloud",
+  "name": "@relayfinancial/currency-cloud-js",
   "description": "Currencycloud API v2 JavaScript client",
   "version": "4.4.0",
   "author": "Currencycloud",
