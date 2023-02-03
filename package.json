@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CurrencyCloud/currencycloud-js.git"
+    "url": "https://github.com/relayfinancial/currencycloud-js.git"
   },
   "bugs": {
-    "url": "https://github.com/CurrencyCloud/currencycloud-js/issues"
+    "url": "https://github.com/relayfinancial/currencycloud-js/issues"
   },
   "homepage": "https://www.currencycloud.com",
   "keywords": [
